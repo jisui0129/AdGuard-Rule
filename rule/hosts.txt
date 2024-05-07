@@ -1,4 +1,4 @@
-# Update time: 2024-05-07 18:14:08
+# Update time: 2024-05-07 20:29:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -14202,7 +14202,6 @@
 127.0.0.1 ml314.com
 127.0.0.1 aux.fqtag.com
 127.0.0.1 ad.jorte.com
-127.0.0.1 analytics.pokki.com
 127.0.0.1 engage.commander1.com
 127.0.0.1 pushaction.foxpush.com
 127.0.0.1 apis.adbro.me
@@ -14253,7 +14252,6 @@
 127.0.0.1 androidads20.adcolony.com
 127.0.0.1 media-cdn.ipredictive.com
 127.0.0.1 sjrtp3-cdn.marketo.com
-127.0.0.1 aax-eu-retail-direct.amazon-adsystem.com
 127.0.0.1 ww2951.smartadserver.com
 127.0.0.1 tracker.engageclick.com
 127.0.0.1 direct-events-collector.spot.im
@@ -14277,7 +14275,6 @@
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 conductor.clicktale.net
 127.0.0.1 mobile-collector.newrelic.com
-127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 turn.com.akadns.net
 127.0.0.1 biddingx.com
 127.0.0.1 cdn-f.adsmoloco.com
@@ -15113,7 +15110,6 @@
 127.0.0.1 s.pubmine.com
 127.0.0.1 decision.taplytics.com
 127.0.0.1 telemetry.servers.getgo.com
-127.0.0.1 ads.bridgebase.com
 127.0.0.1 ade.clmbtech.com
 127.0.0.1 tracking.lengow.com
 127.0.0.1 app-ab12.marketo.com
@@ -16595,8 +16591,10 @@
 127.0.0.1 info.adacado.com
 127.0.0.1 cs.emxdgt.com
 127.0.0.1 iteratehq.com
+127.0.0.1 ads-api.twitter.com
 127.0.0.1 rub-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 mobvista.com
+127.0.0.1 api.voiceads.cn
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 mxase.clmbtech.com
 127.0.0.1 id.analytics.glance.inmobi.com
@@ -16660,6 +16658,7 @@
 127.0.0.1 sin3-ib.sin1.geoadnxs.com
 127.0.0.1 uc-ap.yodo1api.com
 127.0.0.1 20738914p.rfihub.com
+127.0.0.1 asia-comonrt-stsdk.vivoglobal.com
 127.0.0.1 app-abm.marketo.com
 127.0.0.1 beacon-iad2.rubiconproject.com
 127.0.0.1 ecdn.firstimpression.io
@@ -16707,6 +16706,7 @@
 127.0.0.1 deloton.com
 127.0.0.1 pixel.adtelligent.com
 127.0.0.1 reporting.tapstream.com
+127.0.0.1 ad.turn.com
 127.0.0.1 zgsdk.zhugeio.com
 127.0.0.1 apn-winners-us-east-1-rtb.adroll.com
 127.0.0.1 vihit.gotrackier.com
@@ -16756,6 +16756,7 @@
 127.0.0.1 ips-img.iperceptions.com
 127.0.0.1 apps.nielsen.com
 127.0.0.1 ads.uberads.com
+127.0.0.1 asia-stsdk.vivoglobal.com
 127.0.0.1 content.quantcount.com
 127.0.0.1 ctv.truex.com
 127.0.0.1 cbsinteractive.hb.omtrdc.net
@@ -17853,7 +17854,6 @@
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 publisher-east.mobileadtrading.com
 127.0.0.1 pandoramedia-mkt-prod1-t.campaign.adobe.com
-127.0.0.1 ad-us-west.ipredictive.com
 127.0.0.1 st-au.ants.vn
 127.0.0.1 experience.tinypass.com
 127.0.0.1 vendimob.pl
@@ -17991,7 +17991,6 @@
 127.0.0.1 api.huqindustries.co.uk
 127.0.0.1 iad2.ipromote.com
 127.0.0.1 cdn.simpleanalytics.io
-127.0.0.1 api-usent.kampyle.com
 127.0.0.1 pl-v2.presage.io
 127.0.0.1 mjp-analytics.ximad.com
 127.0.0.1 collector.cdp.cnn.com
@@ -18016,7 +18015,6 @@
 127.0.0.1 recreativ.ru
 127.0.0.1 mybuys.com
 127.0.0.1 edge.quantserve.com
-127.0.0.1 advertise.ldplayer.net
 127.0.0.1 pr-gmtdmp.mookie1.com
 127.0.0.1 uswest.bfmio.com
 127.0.0.1 den01.sync.search.spotxchange.com
@@ -22293,6 +22291,7 @@
 127.0.0.1 dvk1.aconitem.top
 127.0.0.1 events.splash-screen.net
 127.0.0.1 au.umeng.co
+127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 360.anatic.net
 127.0.0.1 choomsiesurvey.top
 127.0.0.1 ad.sitemaji.com
@@ -25231,6 +25230,7 @@
 127.0.0.1 lazada1.cc
 127.0.0.1 www.plasmahaul.pro
 127.0.0.1 ads-wc.adaptv.advertising.com
+127.0.0.1 api-usent.kampyle.com
 127.0.0.1 teapoltesx.top
 127.0.0.1 hegq2u8v06wab928.partner.net.daraz.com
 127.0.0.1 hls.ekremimamoglu.click
@@ -28812,7 +28812,6 @@
 127.0.0.1 oooh.pro
 127.0.0.1 dev.email-signify.cjm.adobe.com
 127.0.0.1 inpost-rin.top
-127.0.0.1 ads-api.twitter.com
 127.0.0.1 www.wlogsan.partner-bamboo.net.daraz.com
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 ee.pro1wrld.top
@@ -28866,7 +28865,6 @@
 127.0.0.1 usps.postdg.top
 127.0.0.1 active.inprog.top
 127.0.0.1 www.faktynacodzien.click
-127.0.0.1 asia-comonrt-stsdk.vivoglobal.com
 127.0.0.1 socadvnet.com
 127.0.0.1 ywirbidvucqnx2l1.authpartner.partner.net.daraz.com
 127.0.0.1 kml.newaistar.top
@@ -28917,7 +28915,6 @@
 127.0.0.1 qh.coolplattf.top
 127.0.0.1 vgdownloads.net
 127.0.0.1 api.go88r.pro
-127.0.0.1 ad.turn.com
 127.0.0.1 www.pro.coinplat.xyz
 127.0.0.1 n8s.interfoxprog.click
 127.0.0.1 binance-app.click
@@ -36465,6 +36462,7 @@
 127.0.0.1 violationphysics.click
 127.0.0.1 0004-disable-google-url-tracker.net.daraz.com
 127.0.0.1 uspc.uspsgm.top
+127.0.0.1 analytics.pokki.com
 127.0.0.1 update.sandiego.org
 127.0.0.1 b43ad69b542.johncornell.com
 127.0.0.1 15.182abcnews.hb-api.tt.omtrdc.net
@@ -41969,6 +41967,7 @@
 127.0.0.1 32.17.251espn.hb-api.tt.omtrdc.net
 127.0.0.1 cybertronads.com
 127.0.0.1 pub-9bc015fbe2b2492f9e16fe4a547adf8a.r2.dev
+127.0.0.1 ads.bridgebase.com
 127.0.0.1 sylwetkazarysu.click
 127.0.0.1 postccq.top
 127.0.0.1 www.istotneinfo.click
@@ -48039,7 +48038,6 @@
 127.0.0.1 vs20.gzct.u3.ucweb.com
 127.0.0.1 zmienneczasy.click
 127.0.0.1 wwwdmetricttraint.partner-pay.net.daraz.com
-127.0.0.1 asia-stsdk.vivoglobal.com
 127.0.0.1 inpospl.top
 127.0.0.1 www.dowozimyprawde.click
 127.0.0.1 adserver.100free.com
@@ -50820,6 +50818,7 @@
 127.0.0.1 kolizjadnia.click
 13.107.246.69                  acctcdn.msauth.net
 127.0.0.1 2b7003837ad4ebcf066ec9fa9a984991.poirt.pl
+127.0.0.1 aax-eu-retail-direct.amazon-adsystem.com
 127.0.0.1 ads.birdmedia.com
 127.0.0.1 ads.uknetguide.co.uk
 127.0.0.1 crm-analytics.imweb.ru
@@ -53765,6 +53764,7 @@
 127.0.0.1 kemas.top
 127.0.0.1 bizonads-ssp.com
 127.0.0.1 ads0-normal-hl.zijieapi.com
+127.0.0.1 ad-us-west.ipredictive.com
 127.0.0.1 met5.cushtrade.top
 127.0.0.1 abeenrwvyrew.top
 127.0.0.1 i.itpolska.click
@@ -53894,6 +53894,7 @@
 127.0.0.1 howkpleural.top
 127.0.0.1 lf24-common-ckv-tos.pstatp.com
 127.0.0.1 democbs.hb-api.tt.omtrdc.net
+127.0.0.1 advertise.ldplayer.net
 127.0.0.1 lyvbqbvwllblj.top
 127.0.0.1 ad.correioweb.com.br
 127.0.0.1 www.sklejam-powieki.click
@@ -57538,7 +57539,6 @@
 127.0.0.1 qill.autotrdes.top
 127.0.0.1 ad.tranquiltideshub.com
 127.0.0.1 sumienieratuje.click
-127.0.0.1 api.voiceads.cn
 127.0.0.1 analytics.martinandosa.com
 127.0.0.1 aqiongbei.top
 127.0.0.1 flenchnenes.top
