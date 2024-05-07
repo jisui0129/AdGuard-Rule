@@ -7,6 +7,8 @@
 
 <p><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/adgh.txt/">AdGuard Home Filter</a></p>
 
+<p><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/adgh.txt/">国内加速</a></p>
+
 <h2 id="a">📔 说明</h2>
 
 本项目旨在按需求整合 `AdGuard` 规则。定时从上游订阅获取规则，去除`重复`和`不受支持`的规则并进行分类。如果存在误杀请手动放行。  
