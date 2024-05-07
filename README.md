@@ -5,7 +5,7 @@
 </p>
 </div>
 
-<p><a helf="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/adgh.txt/">AdGuard Home Filter</a></p>
+<p><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/adgh.txt/">AdGuard Home Filter</a></p>
 
 <h2 id="a">📔 说明</h2>
 
