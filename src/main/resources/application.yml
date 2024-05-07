@@ -28,6 +28,7 @@ application:
       
       #自用添加
       - 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt' #Hyper
+      - 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt' #Hyper白名单
       - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilter
       - 'https://raw.githubusercontent.com/guandasheng/adguardhome/main/rule/all.txt' #关圣
       
