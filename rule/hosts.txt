@@ -1,4 +1,4 @@
-# Update time: 2024-05-08 10:24:59
+# Update time: 2024-05-08 10:39:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8065,6 +8065,7 @@
 127.0.0.1 download.shuzilm.cn
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 appicsh.qq.com
+127.0.0.1 mazu.sec.miui.com
 185.199.111.133               cloud.githubusercontent.com
 127.0.0.1 n.qchannel03.cn
 127.0.0.1 ccc.x.jd.com
@@ -8133,6 +8134,7 @@
 127.0.0.1 tapad.iem.taptap.cn
 127.0.0.1 webmail.miaozhen.com
 127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 ad.googleanalysis.mobi
 127.0.0.1 f.moblink.mob.com
 127.0.0.1 security.snssdk.com
@@ -8553,6 +8555,7 @@
 127.0.0.1 neptune-platform.zijieapi.com
 127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 fzapp-test-tyy.gjfzpt.cn
+127.0.0.1 open.kuaishouzt.com
 127.0.0.1 www1.elecfans.com
 127.0.0.1 api-md-c.dutils.com
 127.0.0.1 mos.miaozhen.com
@@ -8846,6 +8849,7 @@
 127.0.0.1 upos-sz-mirrorcos.bilivideo.com
 127.0.0.1 cs.voiceads.cn
 127.0.0.1 aphone_pv_log.kltb.com.cn
+127.0.0.1 preview-api.installer.xiaomi.com
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 api.browser.miui.com
 127.0.0.1 svr-community.jpush.cn
@@ -8933,6 +8937,7 @@
 127.0.0.1 fzapph5.gjfzpt.cn
 127.0.0.1 openapi.yoyi.com.cn
 127.0.0.1 lban.spdb.com.cn
+127.0.0.1 stream.snssdk.com
 127.0.0.1 business.msstatic.com
 127.0.0.1 mssdk5-normal-lq.zijieapi.com
 127.0.0.1 assistant.pandora.xiaomi.com
@@ -9084,6 +9089,7 @@
 127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 sdk.voiceads.cn
 127.0.0.1 audio-ak.spotify.com
+127.0.0.1 sm.domobcdn.com
 127.0.0.1 agms.voiceads.cn
 127.0.0.1 www.spotify-desktop.com
 127.0.0.1 llmchat.voiceads.cn
@@ -9204,6 +9210,7 @@
 127.0.0.1 landing.domobcdn.com
 127.0.0.1 p4-ad.adukwai.com
 127.0.0.1 d.yoyi.com.cn
+127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 crl4.digicert.com
 127.0.0.1 applog-lq.ixigua.com
 127.0.0.1 dop.openapi.umeng.com
@@ -17256,7 +17263,6 @@
 127.0.0.1 vihted-pl.id-dostawa978341.top
 127.0.0.1 access.pangolin-sdk-toutiao-b.com
 127.0.0.1 usps.sjaaquhutv.top
-127.0.0.1 mazu.sec.miui.com
 127.0.0.1 scontent-iad3-2.cdninstagram.com
 127.0.0.1 drogoweszalenstwo.click
 127.0.0.1 artisticcount.pro
@@ -18162,7 +18168,6 @@
 127.0.0.1 roulette-faker.pro
 127.0.0.1 www.przejazduwaga.click
 127.0.0.1 antic.trdex.top
-127.0.0.1 preview-api.installer.xiaomi.com
 127.0.0.1 inceptionads.go2cloud.org
 127.0.0.1 datemeup.top
 127.0.0.1 rtb16.adscience.nl
@@ -18266,7 +18271,6 @@
 127.0.0.1 whole-win.pro
 127.0.0.1 adserve.ph
 127.0.0.1 17.241espn.hb-api.tt.omtrdc.net
-127.0.0.1 stream.snssdk.com
 127.0.0.1 ad-verify.flurry.com
 127.0.0.1 ak.progofficial.top
 127.0.0.1 phpmyadmin.js.ero-advertising.com
@@ -26794,7 +26798,6 @@
 127.0.0.1 pre-xspace.frontpage-partner.net.daraz.com
 127.0.0.1 bank13.ads.dt.mydas.mobi
 127.0.0.1 ca24credlt-agrlcole.top
-127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 tpdads.com
 127.0.0.1 www.realiamiasta.click
 185.199.110.133                avatars5.githubusercontent.com
@@ -27933,7 +27936,6 @@
 127.0.0.1 in-post-pl-myid272xs.varto.top
 127.0.0.1 azvneyrknejew.top
 127.0.0.1 registration.masterch.top
-127.0.0.1 sm.domobcdn.com
 127.0.0.1 vinted-pl-gj32d.sbiq.top
 127.0.0.1 i.api.ad-locus.com
 127.0.0.1 click-here.it
@@ -36855,7 +36857,6 @@
 127.0.0.1 app-maska2.xtnew.click
 127.0.0.1 oddaleniodsiebie.click
 127.0.0.1 analytics.unive.nl
-127.0.0.1 open.kuaishouzt.com
 127.0.0.1 gammadsp.com
 127.0.0.1 smart-ad.sakura.ne.jp
 127.0.0.1 kampaniaeduakcyjna.click
@@ -37571,7 +37572,6 @@
 127.0.0.1 ladsabs.com
 127.0.0.1 www.paiementnazwa-pl-ad568779.evv-auditing.com
 127.0.0.1 bangtopads.com
-127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 www.eadsenergy.com
 127.0.0.1 adsby.bidtheatre.com
 127.0.0.1 share.bitzer.app

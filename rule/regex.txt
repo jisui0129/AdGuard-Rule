@@ -1,4 +1,4 @@
-# Update time: 2024-05-08 10:24:59
+# Update time: 2024-05-08 10:39:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -170,6 +170,7 @@ analytics-*.aasaam.com
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 ||talpa-analytics.
+||mcs-va-*.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||linkexchange.
 ||block.s*block.com^
@@ -198,6 +199,7 @@ analytics-*.aasaam.com
 ||grs.dbankcloud.
 ||collector.hamsterix.
 ||tracking*.euroads.fi^
+||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -244,6 +246,7 @@ analytics-*.aasaam.com
 ||cl*.k5a.io^
 ||s*.adduplex.com^
 ||snowplow-collector-*.amazonaws.com^
+||mon*-platform-*.tiktokv.com^
 ||ms*.applvn.com^
 ||adserver1.
 ||tracking-*.trnox.com^
@@ -259,6 +262,7 @@ analytics-*.aasaam.com
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||popunder.
+||livetracker.*.pangea-cms.com^
 ||stat.tiara.
 ||quangcao-*.epicdn.me^
 ||rotator.
@@ -369,7 +373,6 @@ body {
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
-||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
@@ -402,7 +405,6 @@ body {
 ||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
 ||ulog*.*^
-||mcdp-*.outbrain.com^
 ||d*.wanzhuang.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
@@ -459,7 +461,6 @@ body {
 ||jtbo*.nqxvevk.cn^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
-||mon*-platform-*.tiktokv.com^
 ||util-*.simply-hentai.com^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
@@ -477,7 +478,6 @@ body {
 ||thezbpe5*.xyz^
 ||eum*.instana.io^
 ||fads*s.com^
-||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||aem-collector-*.kgslb.com^
 ||analytics-ad-*.kgslb.com^
@@ -510,7 +510,6 @@ body {
 ||ac*.pingguolv.com^
 ||adcounter*.uptolike.ru^
 ||ads*.depositfiles.org^
-||ablen*.tk^
 ||ad*.ettoday.net^
 ||tnc3-bjlgy.snssdk.^
 ||ad-*.amazonaws.com^
@@ -735,6 +734,7 @@ oHead6205.appendChild( oScript6205);
 ||openx*.*^
 ||ns*.fastthinkingdns.com^
 ||mizunooutlet*
+||ablen*.tk^
 ||salomonusa*
 ||gg*.miguvideo.com^
 ||sda*.xyz^
