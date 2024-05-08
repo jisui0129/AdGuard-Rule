@@ -12,12 +12,12 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
-      - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
-      - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
+      #- 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
+      #- 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
+      #- 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
       #- 'https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
       #- 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
-      - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
+      #- 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
       #- 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
       #- 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
       #- 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
@@ -28,16 +28,16 @@ application:
       
       #自用添加
       - 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt' #Hyper
-      - 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt' #Hyper白名单
+      #- 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt' #Hyper白名单
       - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilter
       - 'https://raw.githubusercontent.com/guandasheng/adguardhome/main/rule/all.txt' #关圣
       
       #原作者自用添加↓
       
       #- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack/hosts规则
-      - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
+      #- 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #name: AdGuard DNS filter
-      - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt' #name: AdditionalFiltersCN
+      #- 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt' #name: AdditionalFiltersCN
       
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #name: 乘风 广告过滤规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt' #name: 乘风 视频过滤规则
@@ -57,7 +57,7 @@ application:
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #name: 秋风广告规则,针对Android广告
       #KoolProxy规则
       #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/koolproxy.txt' #name:静态白名单规则
-      - 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt' #name:每日规则
+      #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt' #name:每日规则
       #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/adg.txt' #name:AdGuard规则
       #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/adgk.txt' #name:Banben规则
       #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/yhosts.txt' #name:Yhosts规则
@@ -72,7 +72,7 @@ application:
       - 'https://filters.adtidy.org/extension/ublock/filters/11.txt' #name: AdGuard Mobile Ads移动设备
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-      - 'yq.txt'
+      - 'mylist.txt'
       - 'yyy.txt'
   output:
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
