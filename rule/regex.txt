@@ -1,4 +1,4 @@
-# Update time: 2024-05-08 17:53:44
+# Update time: 2024-05-08 20:30:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -145,17 +145,21 @@ analytics-*.aasaam.com
 ||mapi-log.qoo*.jp^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||rum*.a.trbcdn.net^
 ||adservice.google.
 ||xlog*-*.tiktokv.com^
 ||analytics-api.dvdfab.
+||counter*.stat.ovh^
 ||liveme-sensors-collect2-*.amazonaws.com^
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||v*-ad.video.yximgs.com^
 ||st-*.dynamicyield.com^
 ||bondzgi*.
+||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||sgtm.fashionunited.
@@ -259,7 +263,6 @@ analytics-*.aasaam.com
 ||maas-*.phunware.com^
 ||rotaban.
 ||rusrestbest.
-||hstats*.hepsiburada.com^
 ||v.newsportal*.ru^
 ||get-me-wow.
 ||mob*.novanewsapp.com^
@@ -285,7 +288,6 @@ analytics-*.aasaam.com
 ||q*-publick.club^
 ||piwik.*.vn^
 ||letssex.
-||logger-*.dailymotion.com^
 ||production-adserver-*.amazonaws.com^
 ||iad-*.appboy.com^
 ||minitds-*.info^
@@ -319,14 +321,13 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||button.blogs.yandex.
 ||collector.xhamster*.
+||fxhpaoxqyajvmdg.
 ||poptraf.
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
 <head>
 <body>
 <!doctype html>
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||zazgiyoh*.xyz^
@@ -385,41 +386,8 @@ analytics-*.aasaam.com
 ||dj1*.online^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
-||wallpaper-*.file.myqcloud.com^
-||ad-*file.myqcloud.com^
-||rconfig-*.file.myqcloud.com^
-||p*-be-pack-sign.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao*.com^
-||adsmind.gdtimg.com||
-||iad.*.163.com^
-||useronline-*.image.myqcloud.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
 ||analytics-*-nfl.yinzcam.com^
@@ -482,6 +450,7 @@ body {
 ||appanalysis*.banggood.com^
 ||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
+||hstats*.hepsiburada.com^
 ||ads*.depositfiles.org^
 ||geoloc*.geo20120530.com^
 ||adserver.*^
@@ -503,6 +472,7 @@ body {
 ||admob.*^
 ||collect-v*.51.la^
 ||datacollector-*.dt.hicloud.com^
+||logger-*.dailymotion.com^
 ||adsmogo*.*^
 ||ad*.nexage.com^
 ||adservice*.*^
@@ -527,21 +497,24 @@ body {
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
+||wallpaper-*.file.myqcloud.com^
+||ad-*file.myqcloud.com^
+||rconfig-*.file.myqcloud.com^
+||p*-be-pack-sign.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao*.com^
+||adsmind.gdtimg.com||
+||iad.*.163.com^
+||useronline-*.image.myqcloud.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||centent.streamp1ay.
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 ||spryptvqguhpwt^
-||prebid-*.rubiconproject.com^
+@@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
 ||33mail.com%2fpage%2fopened^
