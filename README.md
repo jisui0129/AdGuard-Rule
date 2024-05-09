@@ -59,7 +59,7 @@
     <li><a href="https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt">每日规则</a></li>
     <li><a href="https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt">StevenBlack规则</a></li>
 
-    -->
+    //-->
   
     <li><a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts">大圣净化</a></li>
     <li><a href="https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt">AdRules AdGuard Full List</a></li>
