@@ -18,7 +18,9 @@
 
 <details>
 <summary>点击查看</summary>
+  
 <ul>
+    <!-- 
     <li><a href="https://github.com/hoshsadiq/adblock-nocoin-list/">adblock-nocoin-list</a></li>
     <li><a href="https://github.com/durablenapkin/scamblocklist">Scam Blocklist</a></li>
     <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
@@ -56,6 +58,32 @@
     <li><a href="https://raw.iqiq.io/ilxp/koolproxy/master/rules/koolproxy.txt">静态规则</a></li>
     <li><a href="https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt">每日规则</a></li>
     <li><a href="https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt">StevenBlack规则</a></li>
+
+    -->
+  
+    <li><a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts">大圣净化</a></li>
+    <li><a href="https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt">AdRules AdGuard Full List</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">adguard base</a></li>
+    
+    <li><a href="https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt">HyperADRules</a></li>
+    <li><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt">adblockfilter</a></li>
+    <li><a href="https://raw.githubusercontent.com/guandasheng/adguardhome/main/rule/all.txt">关圣</a></li>
+    <li><a href="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt">Goodbyeads70</a></li>
+    <li><a href="https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt">Goodbyeads8680</a></li>
+    
+    <li><a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt">AdGuard DNS filter</a></li>
+    <li><a href="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt">乘风 广告过滤规则</a></li>
+    <li><a href="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt">乘风 视频过滤规则</a></li>
+    <li><a href="https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt">HalfLife_合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance</a></li>
+    <li><a href="https://adaway.org/hosts.txt">AdAway 官方的去广告 Host 规则</a></li>
+    <li><a href="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt">去除禁止广告拦截提示规则</a></li>
+    <li><a href="https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt">杏稍AdRules DNS List</a></li>
+    <li><a href="https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/AdGuard/Advertising/Advertising.txt">AdGuard_blackmatrix7合并</a></li>
+    <li><a href="https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt">知乎 普通版</a></li>
+    <li><a href="https://raw.githubusercontents.com/timlu85/AdGuard-Home_Youtube-Adfilter/master/Youtube-Adfilter-Web.txt">Youtube-Adfilter-Web</a></li>
+    <li><a href="https://raw.githubusercontents.com/91ajames/ublock-filters-ulist-youtube/main/blocklist.txt">ublock-filters-ulist-youtube</a></li>
+    <li><a href="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt">秋风广告规则,针对Android广告</a></li>
+
     # uBlock内置规则
     <li><a href="https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/filters.txt">uBlock filters</a></li>
     <li><a href="https://ublockorigin.pages.dev/filters/badware.txt">uBlock filters – Badware risks</a></li>
@@ -64,13 +92,14 @@
     <li><a href="https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt">uBlock filters – Resource abuse</a></li>
     <li><a href="https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/unbreak.txt">uBlock filters – Unbreak</a></li>
     <li><a href="https://filters.adtidy.org/extension/ublock/filters/11.txt">AdGuard Mobile Ads移动设备</a></li>
+
+    #本地列表
+    <li><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/mylist.txt"></a></li>
+    <li><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/yyy.txt"></a></li>
+    <li><a href=""></a></li>
+  
 </ul>
 </details>
-
-#### 本地规则
-
-- [mylist](#)
-> 主要是对上游规则的修正补充，根据日常使用体验，解除一些失误拦截
 
 
 #### 示例配置
