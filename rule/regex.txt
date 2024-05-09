@@ -1,4 +1,4 @@
-# Update time: 2024-05-09 09:09:14
+# Update time: 2024-05-09 20:29:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -90,54 +90,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||ysdm*.ys137.com.cn^
 ||ky891.oss-*.aliyuncs.com^
-||sf*-fe-tos.pglstatp-toutiao.com^
-||bdcpro*.techweb.com.cn^
-||dm*.ppzuowen.com^
-||bd*-ys.km.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||fls-*.amazon.com^
-||stats*.credit-cooperatif.coop^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||hn-ping*.hashnode.com^
-||dn*.ixinwei.com^
-||mcdp-*.outbrain.com^
-||XiaoQiang^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||ac*.786ip.com^
-||s*-fe-scm.pglstatp-toutiao.com^
-||geotargetly-api-*.com^
-||ad*.on.cc^
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||log-*.previewnetworks.com^
-||faro-collector-prod-*.grafana.net^
-||ac*.pingguolv.com^
-||at*.doubanio.com^
-||dm*.yxlady.com^
-||adi*.cnool.net^
-||collector-*.px-client.net^
-||stat.*.v-56.com^
-||stats-*.p2pnow.ru^
-||api.*.hismarttv.com^
-||tnc3-bjlgy.snssdk.^
-||ads*-normal*.zijieapi.com^
-||gcw*.2liang.cn^
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-||stats2.*.fdnames.com^
-||ac*.faxingchina.com^
-||localhost^
-||aff*.kolektiva.net^
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||ax.*.ifeng.com^
-||access.pangolin-sdk-toutiao-*.com^
-||hbbtv.*.de^
-||asd8900.oss-*.aliyuncs.com^
 ||pixel*.production-public.tubi.io^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
@@ -172,6 +124,7 @@ analytics-*.aasaam.com
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||stats.zone-telechargement.
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
@@ -303,6 +256,7 @@ analytics-*.aasaam.com
 ||www.fuze-hill*.xyz^
 ||mediacontext.
 ||videoclick.
+||stats-*.p2pnow.ru^
 ||admulti.
 ||parkdomainreal*.site^
 ||tnc16-*.byteoversea.com^
@@ -319,6 +273,52 @@ analytics-*.aasaam.com
 ||poptraf.
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
+||sf*-fe-tos.pglstatp-toutiao.com^
+||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
+||bd*-ys.km.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||fls-*.amazon.com^
+||stats*.credit-cooperatif.coop^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||hn-ping*.hashnode.com^
+||dn*.ixinwei.com^
+||mcdp-*.outbrain.com^
+||XiaoQiang^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||ac*.786ip.com^
+||s*-fe-scm.pglstatp-toutiao.com^
+||geotargetly-api-*.com^
+||ad*.on.cc^
+||d*.xinshipu.com^
+||fpb*.51edu.com^
+||log-*.previewnetworks.com^
+||faro-collector-prod-*.grafana.net^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
+||dm*.yxlady.com^
+||adi*.cnool.net^
+||collector-*.px-client.net^
+||stat.*.v-56.com^
+||api.*.hismarttv.com^
+||tnc3-bjlgy.snssdk.^
+||ads*-normal*.zijieapi.com^
+||gcw*.2liang.cn^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||ac*.faxingchina.com^
+||localhost^
+||aff*.kolektiva.net^
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||ax.*.ifeng.com^
+||access.pangolin-sdk-toutiao-*.com^
+||hbbtv.*.de^
+||asd8900.oss-*.aliyuncs.com^
 <head>
 <body>
 <!doctype html>
@@ -354,7 +354,6 @@ analytics-*.aasaam.com
 ||cas.*.criteo.com^
 ||n*adserv.com^
 ||zahrvfbd*.xyz^
-||apple.com-*.live^
 ||zbc6hy*.live^
 ||sads*z.com^
 ||zcchyr*.xyz^
@@ -376,50 +375,12 @@ analytics-*.aasaam.com
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||fads*s.com^
-||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
-||api-*.bidmachine.io^
-||ap*.pl520.com^
 ||dj1*.online^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||imgpfx.arenavision.
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
-||wallpaper-*.file.myqcloud.com^
-||ad-*file.myqcloud.com^
-||rconfig-*.file.myqcloud.com^
-||p*-be-pack-sign.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao*.com^
-||adsmind.gdtimg.com||
-||iad.*.163.com^
-||useronline-*.image.myqcloud.com^
 ||host*.nti.nl^
 ||ads*.textra.me^
 ||cs*.mp3bars.com^
@@ -509,6 +470,41 @@ body {
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||adcs-*.myappsget.com^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
+||wallpaper-*.file.myqcloud.com^
+||ad-*file.myqcloud.com^
+||rconfig-*.file.myqcloud.com^
+||p*-be-pack-sign.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao*.com^
+||adsmind.gdtimg.com||
+||iad.*.163.com^
+||useronline-*.image.myqcloud.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
@@ -696,7 +692,6 @@ oHead6205.appendChild( oScript6205);
 ||ads*-adnow.com^
 ||secure-access-*.gate23.xyz^
 ||hokaoutlet*
-")
 ||tccd.douglas.
 ||doubleclick*.xyz^
 ||pingfore*.*^
@@ -709,6 +704,7 @@ oHead6205.appendChild( oScript6205);
 ||acrxcoupons.
 ||ads.*.kugou.com^
 ||stats.zone-annuaire.
+||api-*.bidmachine.io^
 ||qchannel*.cn^
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
@@ -794,6 +790,7 @@ flipdish-cookie-consent*
 |1x1.cz^
 ||reschedule-delivery.ups.com.
 |samsungqbe.com^
+||apple.com-*.live^
 ||hostingcloud.*^
 ||pamela.*.net^
 ||1xbet-*.com^
@@ -814,6 +811,7 @@ flipdish-cookie-consent*
 ||mizunooutlet*
 ||sda*.xyz^
 ||dnb-oppdater.
+||ap*.jj20.com^
 ||vmm-satellite*.com^
 ||csgogift*.xyz^
 ||minero-proxy-*.sh^
@@ -871,4 +869,5 @@ flipdish-cookie-consent*
 ||adsh*.*^
 @@||tongji.*kuwo.cn^
 ||americanconsultantsrx.
+||ap*.pl520.com^
 ||tracker*.qcloud.com^
