@@ -47,9 +47,9 @@
     <li><a href="https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt">uBlock filters – Resource abuse</a></li>
     <li><a href="https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/unbreak.txt">uBlock filters – Unbreak</a></li>
     <li><a href="https://filters.adtidy.org/extension/ublock/filters/11.txt">AdGuard Mobile Ads移动设备</a></li>
-    #本地列表
-    <li><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/mylist.txt"></a>mylist</li>
-    <li><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/yyy.txt"></a>yyy</li>
+    # 本地列表
+    <li><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/mylist.txt">mylist</a></li>
+    <li><a href="https://raw.githubusercontent.com/urkbio/AdGuard-Rule/main/rule/yyy.txt">yyy</a></li>
 </ul>
 </details>
 
