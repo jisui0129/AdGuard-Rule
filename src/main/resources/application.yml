@@ -2,7 +2,7 @@ spring:
   application:
     名字: adg-rule
   profiles:
-    已激活: prod  #切换至 dev 即可输出调试信息
+    已激活: prod  
 
 logging:
   file:
@@ -26,7 +26,7 @@ application:
       - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
       
-      #自用添加
+      
       - 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt' #Hyper
       #- 'https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt' #Hyper白名单
       - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilter
